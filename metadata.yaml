@@ -1,0 +1,36 @@
+_repo: Entre-o-caff--e-o-cognac_33182
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pimentel, Alberto
+    alias: Pimentel, Alberto Augusto de Almeida
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '25371'
+    url: http://www.gutenberg.org/2009/agents/25371
+    wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
+description: ''
+gutenberg_issued: '2010-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33182'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- 19th century'
+tableOfContents: Advertencia -- O Gabinete de Camillo -- O Primeiro de Janeiro --
+  A Aguia d'Ouro -- Physiologia do Theatro de S. João -- Physiologia do Theatro Baquet
+  -- Telhudos historicos -- Os Domingos -- As Italianas -- Emilio Castelar -- Animaes
+  e vegetaes -- Á Academia de Coimbra -- Os annuncios -- A industria das ruas -- A
+  Giganta (carta a Julio Cesar Machado) -- O Album do Gymnasio -- Esboço de comedia
+  -- As colheitas -- S. Bartholomeu -- O Natal -- Os Bohemios -- O Relogio... -- Ás
+  sete horas da manhã -- Á mesa do chá -- S. João -- Judas no plural -- Historia velha
+  -- Thiers -- A Hespanha.
+title: Entre o caffé e o cognac
+url: http://www.gutenberg.org/ebooks/33182
